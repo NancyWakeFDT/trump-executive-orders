@@ -72,56 +72,6 @@ footer a:hover {
     }
 }
 
-/* Make table rows more compact - stronger version */
-.table td, .table th {
-    padding: 0.3rem !important;
-    vertical-align: middle !important;
-    line-height: 1.2 !important;
-    height: auto !important;
-}
-
-/* Reduce the font size slightly */
-.table {
-    font-size: 0.9rem !important;
-}
-
-/* Remove extra spacing in table rows */
-.table tr {
-    height: auto !important;
-}
-
-/* Make the date column narrower */
-.table th:nth-child(3), 
-.table td:nth-child(3) {
-    width: 120px !important;
-    white-space: nowrap !important;
-}
-
-/* Make the links column narrower */
-.table th:nth-child(4), 
-.table td:nth-child(4) {
-    width: 90px !important;
-    text-align: center !important;
-}
-
-/* Make the number column narrower */
-.table th:nth-child(1), 
-.table td:nth-child(1) {
-    width: 70px !important;
-    text-align: center !important;
-}
-
-/* Make buttons in the links column smaller */
-.table .btn-sm {
-    padding: 0.1rem 0.3rem !important;
-    font-size: 0.75rem !important;
-}
-
-/* Remove extra margin between buttons */
-.table .btn {
-    margin: 0.1rem !important;
-}
-
 /* Responsive iframe container */
 .text-center iframe {
     max-width: 100%;
@@ -135,3 +85,21 @@ footer a:hover {
         height: 450px;
     }
 }
+
+/* Egg Index page specific styles */
+.container h1 {
+    font-size: 2.2rem;
+}
+
+/* Reduce container padding for egg index page */
+.card-body.pt-2.pb-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* Adjust container padding */
+@media (min-width: 992px) {
+    .container {
+        padding-top: 10px;
+    }
+} 
