@@ -92,7 +92,7 @@ footer a:hover {
 }
 
 /* Reduce container padding for egg index page */
-.card-body.pt-2.pb-2 {
+.card-body.pt-0.pb-2 {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
 }
@@ -102,4 +102,15 @@ footer a:hover {
     .container {
         padding-top: 10px;
     }
+}
+
+/* Remove space between header and card */
+header.border-0 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+/* Remove extra space in card */
+.card.border-0 {
+    margin-top: 0;
 } 
