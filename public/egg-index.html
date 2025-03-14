@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Egg Index - Trump Executive Orders 2025</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <div class="container">
+        <header class="py-1 text-center position-relative border-0">
+            <!-- Dropdown Menu in Upper Right -->
+            <div class="dropdown position-absolute top-0 end-0 mt-2 me-3">
+                <button class="btn btn-outline-primary dropdown-toggle btn-sm" type="button" id="navDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="bi bi-list"></i> Menu
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="navDropdown">
+                    <li><a class="dropdown-item" href="index.html">Executive Orders</a></li>
+                    <li><a class="dropdown-item" href="egg-index.html">The Egg Index</a></li>
+                </ul>
+            </div>
+            
+            <h1 class="mb-0">The Egg Index</h1>
+            <p class="small text-muted mb-0">Tracking egg prices and economic indicators</p>
+        </header>
+
+        <div class="card mb-3 mt-0 border-0">
+            <div class="card-body pt-0 pb-2">
+                <div class="text-center">
+                    <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1Exdb&width=800&height=550" 
+                            scrolling="no" 
+                            frameborder="0" 
+                            style="overflow:hidden; width:800px; height:600px; max-width: 100%;" 
+                            allowTransparency="true" 
+                            loading="lazy">
+                    </iframe>
+                </div>
+                <p class="small mt-2 mb-0">
+                    This graph shows the price index for eggs in the United States. Data is sourced from the Federal Reserve Economic Data (FRED).
+                </p>
+            </div>
+        </div>
+
+        <div class="text-center mb-3">
+            <a href="index.html" class="btn btn-primary btn-sm">
+                <i class="bi bi-arrow-left"></i> Back to Executive Orders
+            </a>
+        </div>
+
+        <footer class="py-2 text-center text-muted small">
+            <p class="mb-1">Data sourced from the <a href="https://fred.stlouisfed.org/" target="_blank">Federal Reserve Economic Data (FRED)</a></p>
+            <p class="mb-0">&copy; <span id="current-year">2025</span></p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Set current year in footer
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html> 
