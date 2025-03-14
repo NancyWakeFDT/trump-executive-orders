@@ -25,7 +25,7 @@ let allOrders = [];
 let currentOrders = [];
 let currentSort = { field: 'number', ascending: false };
 let currentPage = 1;
-const ordersPerPage = 10;
+const ordersPerPage = 25;
 
 // Fetch executive orders from the data file
 async function fetchExecutiveOrders() {
