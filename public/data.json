@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-03-28T06:48:44.833Z",
+  "lastUpdated": "2025-03-29T06:41:22.929Z",
   "orders": [
+    {
+      "title": "Addressing Risks From Jenner & Block",
+      "document_number": "2025-05519",
+      "executive_order_number": "14246",
+      "signing_date": "2025-03-25",
+      "publication_date": "2025-03-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05519/addressing-risks-from-jenner-and-block",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05519.pdf",
+      "citation": "90 FR 13997"
+    },
+    {
+      "title": "Modernizing Payments To and From America's Bank Account",
+      "document_number": "2025-05522",
+      "executive_order_number": "14247",
+      "signing_date": "2025-03-25",
+      "publication_date": "2025-03-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05522/modernizing-payments-to-and-from-americas-bank-account",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05522.pdf",
+      "citation": "90 FR 14001"
+    },
+    {
+      "title": "Preserving and Protecting the Integrity of American Elections",
+      "document_number": "2025-05523",
+      "executive_order_number": "14248",
+      "signing_date": "2025-03-25",
+      "publication_date": "2025-03-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05523/preserving-and-protecting-the-integrity-of-american-elections",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05523.pdf",
+      "citation": "90 FR 14005"
+    },
+    {
+      "title": "Protecting America's Bank Account Against Fraud, Waste, and Abuse",
+      "document_number": "2025-05524",
+      "executive_order_number": "14249",
+      "signing_date": "2025-03-25",
+      "publication_date": "2025-03-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05524/protecting-americas-bank-account-against-fraud-waste-and-abuse",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05524.pdf",
+      "citation": "90 FR 14011"
+    },
     {
       "title": "Imposing Tariffs on Countries Importing Venezuelan Oil",
       "document_number": "2025-05440",
