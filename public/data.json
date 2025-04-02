@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-04-01T06:51:22.422Z",
+  "lastUpdated": "2025-04-02T06:47:31.466Z",
   "orders": [
     {
       "title": "Addressing Risks From Jenner & Block",
@@ -22,16 +22,6 @@
       "citation": "90 FR 14001"
     },
     {
-      "title": "Protecting America's Bank Account Against Fraud, Waste, and Abuse",
-      "document_number": "2025-05524",
-      "executive_order_number": "14249",
-      "signing_date": "2025-03-25",
-      "publication_date": "2025-03-28",
-      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05524/protecting-americas-bank-account-against-fraud-waste-and-abuse",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05524.pdf",
-      "citation": "90 FR 14011"
-    },
-    {
       "title": "Preserving and Protecting the Integrity of American Elections",
       "document_number": "2025-05523",
       "executive_order_number": "14248",
@@ -40,6 +30,16 @@
       "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05523/preserving-and-protecting-the-integrity-of-american-elections",
       "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05523.pdf",
       "citation": "90 FR 14005"
+    },
+    {
+      "title": "Protecting America's Bank Account Against Fraud, Waste, and Abuse",
+      "document_number": "2025-05524",
+      "executive_order_number": "14249",
+      "signing_date": "2025-03-25",
+      "publication_date": "2025-03-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05524/protecting-americas-bank-account-against-fraud-waste-and-abuse",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-28/pdf/2025-05524.pdf",
+      "citation": "90 FR 14011"
     },
     {
       "title": "Imposing Tariffs on Countries Importing Venezuelan Oil",
@@ -222,26 +222,6 @@
       "citation": "90 FR 11463"
     },
     {
-      "title": "Addressing the Threat to National Security From Imports of Timber, Lumber, and Their Derivative Products",
-      "document_number": "2025-03693",
-      "executive_order_number": "14223",
-      "signing_date": "2025-03-01",
-      "publication_date": "2025-03-06",
-      "html_url": "https://www.federalregister.gov/documents/2025/03/06/2025-03693/addressing-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-06/pdf/2025-03693.pdf",
-      "citation": "90 FR 11359"
-    },
-    {
-      "title": "Immediate Expansion of American Timber Production",
-      "document_number": "2025-03695",
-      "executive_order_number": "14225",
-      "signing_date": "2025-03-01",
-      "publication_date": "2025-03-06",
-      "html_url": "https://www.federalregister.gov/documents/2025/03/06/2025-03695/immediate-expansion-of-american-timber-production",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-06/pdf/2025-03695.pdf",
-      "citation": "90 FR 11365"
-    },
-    {
       "title": "Designating English as the Official Language of the United States",
       "document_number": "2025-03694",
       "executive_order_number": "14224",
@@ -272,6 +252,26 @@
       "citation": "90 FR 11371"
     },
     {
+      "title": "Addressing the Threat to National Security From Imports of Timber, Lumber, and Their Derivative Products",
+      "document_number": "2025-03693",
+      "executive_order_number": "14223",
+      "signing_date": "2025-03-01",
+      "publication_date": "2025-03-06",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/06/2025-03693/addressing-the-threat-to-national-security-from-imports-of-timber-lumber-and-their-derivative",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-06/pdf/2025-03693.pdf",
+      "citation": "90 FR 11359"
+    },
+    {
+      "title": "Immediate Expansion of American Timber Production",
+      "document_number": "2025-03695",
+      "executive_order_number": "14225",
+      "signing_date": "2025-03-01",
+      "publication_date": "2025-03-06",
+      "html_url": "https://www.federalregister.gov/documents/2025/03/06/2025-03695/immediate-expansion-of-american-timber-production",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-03-06/pdf/2025-03695.pdf",
+      "citation": "90 FR 11365"
+    },
+    {
       "title": "Implementing the President's \"Department of Government Efficiency\" Cost Efficiency Initiative",
       "document_number": "2025-03527",
       "executive_order_number": "14222",
@@ -282,16 +282,6 @@
       "citation": "90 FR 11095"
     },
     {
-      "title": "Making America Healthy Again by Empowering Patients With Clear, Accurate, and Actionable Healthcare Pricing Information",
-      "document_number": "2025-03440",
-      "executive_order_number": "14221",
-      "signing_date": "2025-02-25",
-      "publication_date": "2025-02-28",
-      "html_url": "https://www.federalregister.gov/documents/2025/02/28/2025-03440/making-america-healthy-again-by-empowering-patients-with-clear-accurate-and-actionable-healthcare",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-28/pdf/2025-03440.pdf",
-      "citation": "90 FR 11005"
-    },
-    {
       "title": "Addressing the Threat to National Security From Imports of Copper",
       "document_number": "2025-03439",
       "executive_order_number": "14220",
@@ -300,6 +290,16 @@
       "html_url": "https://www.federalregister.gov/documents/2025/02/28/2025-03439/addressing-the-threat-to-national-security-from-imports-of-copper",
       "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-28/pdf/2025-03439.pdf",
       "citation": "90 FR 11001"
+    },
+    {
+      "title": "Making America Healthy Again by Empowering Patients With Clear, Accurate, and Actionable Healthcare Pricing Information",
+      "document_number": "2025-03440",
+      "executive_order_number": "14221",
+      "signing_date": "2025-02-25",
+      "publication_date": "2025-02-28",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/28/2025-03440/making-america-healthy-again-by-empowering-patients-with-clear-accurate-and-actionable-healthcare",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-28/pdf/2025-03440.pdf",
+      "citation": "90 FR 11005"
     },
     {
       "title": "Commencing the Reduction of the Federal Bureaucracy",
@@ -582,6 +582,46 @@
       "citation": "90 FR 9065"
     },
     {
+      "title": "Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate",
+      "document_number": "2025-02180",
+      "executive_order_number": "14184",
+      "signing_date": "2025-01-27",
+      "publication_date": "2025-02-03",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02180/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02180.pdf",
+      "citation": "90 FR 8761"
+    },
+    {
+      "title": "The Iron Dome for America",
+      "document_number": "2025-02182",
+      "executive_order_number": "14186",
+      "signing_date": "2025-01-27",
+      "publication_date": "2025-02-03",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02182/the-iron-dome-for-america",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02182.pdf",
+      "citation": "90 FR 8767"
+    },
+    {
+      "title": "Protecting Children From Chemical and Surgical Mutilation",
+      "document_number": "2025-02194",
+      "executive_order_number": "14187",
+      "signing_date": "2025-01-28",
+      "publication_date": "2025-02-03",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02194/protecting-children-from-chemical-and-surgical-mutilation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02194.pdf",
+      "citation": "90 FR 8771"
+    },
+    {
+      "title": "Expanding Educational Freedom and Opportunity for Families",
+      "document_number": "2025-02233",
+      "executive_order_number": "14191",
+      "signing_date": "2025-01-29",
+      "publication_date": "2025-02-03",
+      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02233.pdf",
+      "citation": "90 FR 8859"
+    },
+    {
       "title": "Ending Radical Indoctrination in K-12 Schooling",
       "document_number": "2025-02232",
       "executive_order_number": "14190",
@@ -632,46 +672,6 @@
       "citation": "90 FR 8849"
     },
     {
-      "title": "Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate",
-      "document_number": "2025-02180",
-      "executive_order_number": "14184",
-      "signing_date": "2025-01-27",
-      "publication_date": "2025-02-03",
-      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02180/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02180.pdf",
-      "citation": "90 FR 8761"
-    },
-    {
-      "title": "The Iron Dome for America",
-      "document_number": "2025-02182",
-      "executive_order_number": "14186",
-      "signing_date": "2025-01-27",
-      "publication_date": "2025-02-03",
-      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02182/the-iron-dome-for-america",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02182.pdf",
-      "citation": "90 FR 8767"
-    },
-    {
-      "title": "Protecting Children From Chemical and Surgical Mutilation",
-      "document_number": "2025-02194",
-      "executive_order_number": "14187",
-      "signing_date": "2025-01-28",
-      "publication_date": "2025-02-03",
-      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02194/protecting-children-from-chemical-and-surgical-mutilation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02194.pdf",
-      "citation": "90 FR 8771"
-    },
-    {
-      "title": "Expanding Educational Freedom and Opportunity for Families",
-      "document_number": "2025-02233",
-      "executive_order_number": "14191",
-      "signing_date": "2025-01-29",
-      "publication_date": "2025-02-03",
-      "html_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-02-03/pdf/2025-02233.pdf",
-      "citation": "90 FR 8859"
-    },
-    {
       "title": "Council To Assess the Federal Emergency Management Agency",
       "document_number": "2025-02173",
       "executive_order_number": "14180",
@@ -680,56 +680,6 @@
       "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02173/council-to-assess-the-federal-emergency-management-agency",
       "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02173.pdf",
       "citation": "90 FR 8743"
-    },
-    {
-      "title": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce",
-      "document_number": "2025-02095",
-      "executive_order_number": "14171",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-31",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02095/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02095.pdf",
-      "citation": "90 FR 8625"
-    },
-    {
-      "title": "Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
-      "document_number": "2025-02097",
-      "executive_order_number": "14173",
-      "signing_date": "2025-01-21",
-      "publication_date": "2025-01-31",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02097.pdf",
-      "citation": "90 FR 8633"
-    },
-    {
-      "title": "President's Council of Advisors on Science and Technology",
-      "document_number": "2025-02121",
-      "executive_order_number": "14177",
-      "signing_date": "2025-01-23",
-      "publication_date": "2025-01-31",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02121/presidents-council-of-advisors-on-science-and-technology",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02121.pdf",
-      "citation": "90 FR 8643"
-    },
-    {
-      "title": "Strengthening American Leadership in Digital Financial Technology",
-      "document_number": "2025-02123",
-      "executive_order_number": "14178",
-      "signing_date": "2025-01-23",
-      "publication_date": "2025-01-31",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02123/strengthening-american-leadership-in-digital-financial-technology",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02123.pdf",
-      "citation": "90 FR 8647"
-    },
-    {
-      "title": "Enforcing the Hyde Amendment",
-      "document_number": "2025-02175",
-      "executive_order_number": "14182",
-      "signing_date": "2025-01-24",
-      "publication_date": "2025-01-31",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02175.pdf",
-      "citation": "90 FR 8751"
     },
     {
       "title": "Restoring Names That Honor American Greatness",
@@ -792,6 +742,66 @@
       "citation": "90 FR 8747"
     },
     {
+      "title": "Restoring Accountability to Policy-Influencing Positions Within the Federal Workforce",
+      "document_number": "2025-02095",
+      "executive_order_number": "14171",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-31",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02095/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02095.pdf",
+      "citation": "90 FR 8625"
+    },
+    {
+      "title": "Ending Illegal Discrimination and Restoring Merit-Based Opportunity",
+      "document_number": "2025-02097",
+      "executive_order_number": "14173",
+      "signing_date": "2025-01-21",
+      "publication_date": "2025-01-31",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02097.pdf",
+      "citation": "90 FR 8633"
+    },
+    {
+      "title": "President's Council of Advisors on Science and Technology",
+      "document_number": "2025-02121",
+      "executive_order_number": "14177",
+      "signing_date": "2025-01-23",
+      "publication_date": "2025-01-31",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02121/presidents-council-of-advisors-on-science-and-technology",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02121.pdf",
+      "citation": "90 FR 8643"
+    },
+    {
+      "title": "Strengthening American Leadership in Digital Financial Technology",
+      "document_number": "2025-02123",
+      "executive_order_number": "14178",
+      "signing_date": "2025-01-23",
+      "publication_date": "2025-01-31",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02123/strengthening-american-leadership-in-digital-financial-technology",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02123.pdf",
+      "citation": "90 FR 8647"
+    },
+    {
+      "title": "Enforcing the Hyde Amendment",
+      "document_number": "2025-02175",
+      "executive_order_number": "14182",
+      "signing_date": "2025-01-24",
+      "publication_date": "2025-01-31",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02175/enforcing-the-hyde-amendment",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02175.pdf",
+      "citation": "90 FR 8751"
+    },
+    {
+      "title": "Reforming the Federal Hiring Process and Restoring Merit to Government Service",
+      "document_number": "2025-02094",
+      "executive_order_number": "14170",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-30",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02094/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02094.pdf",
+      "citation": "90 FR 8621"
+    },
+    {
       "title": "Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government",
       "document_number": "2025-02090",
       "executive_order_number": "14168",
@@ -800,6 +810,16 @@
       "html_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal",
       "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02090.pdf",
       "citation": "90 FR 8615"
+    },
+    {
+      "title": "Realigning the United States Refugee Admissions Program",
+      "document_number": "2025-02011",
+      "executive_order_number": "14163",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-30",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02011/realigning-the-united-states-refugee-admissions-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02011.pdf",
+      "citation": "90 FR 8459"
     },
     {
       "title": "Protecting the United States From Foreign Terrorists and Other National Security and Public Safety Threats",
@@ -872,56 +892,6 @@
       "citation": "90 FR 8619"
     },
     {
-      "title": "Realigning the United States Refugee Admissions Program",
-      "document_number": "2025-02011",
-      "executive_order_number": "14163",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-30",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02011/realigning-the-united-states-refugee-admissions-program",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02011.pdf",
-      "citation": "90 FR 8459"
-    },
-    {
-      "title": "Reforming the Federal Hiring Process and Restoring Merit to Government Service",
-      "document_number": "2025-02094",
-      "executive_order_number": "14170",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-30",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02094/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-30/pdf/2025-02094.pdf",
-      "citation": "90 FR 8621"
-    },
-    {
-      "title": "Unleashing American Energy",
-      "document_number": "2025-01956",
-      "executive_order_number": "14154",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-29",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-01956.pdf",
-      "citation": "90 FR 8353"
-    },
-    {
-      "title": "Withdrawing the United States From the World Health Organization",
-      "document_number": "2025-01957",
-      "executive_order_number": "14155",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-29",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-01957/withdrawing-the-united-states-from-the-world-health-organization",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-01957.pdf",
-      "citation": "90 FR 8361"
-    },
-    {
-      "title": "Protecting the American People Against Invasion",
-      "document_number": "2025-02006",
-      "executive_order_number": "14159",
-      "signing_date": "2025-01-20",
-      "publication_date": "2025-01-29",
-      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-02006/protecting-the-american-people-against-invasion",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-02006.pdf",
-      "citation": "90 FR 8443"
-    },
-    {
       "title": "Ending Radical and Wasteful Government DEI Programs and Preferencing",
       "document_number": "2025-01953",
       "executive_order_number": "14151",
@@ -970,6 +940,36 @@
       "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-01952/america-first-policy-directive-to-the-secretary-of-state",
       "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-01952.pdf",
       "citation": "90 FR 8337"
+    },
+    {
+      "title": "Unleashing American Energy",
+      "document_number": "2025-01956",
+      "executive_order_number": "14154",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-29",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-01956/unleashing-american-energy",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-01956.pdf",
+      "citation": "90 FR 8353"
+    },
+    {
+      "title": "Withdrawing the United States From the World Health Organization",
+      "document_number": "2025-01957",
+      "executive_order_number": "14155",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-29",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-01957/withdrawing-the-united-states-from-the-world-health-organization",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-01957.pdf",
+      "citation": "90 FR 8361"
+    },
+    {
+      "title": "Protecting the American People Against Invasion",
+      "document_number": "2025-02006",
+      "executive_order_number": "14159",
+      "signing_date": "2025-01-20",
+      "publication_date": "2025-01-29",
+      "html_url": "https://www.federalregister.gov/documents/2025/01/29/2025-02006/protecting-the-american-people-against-invasion",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2025-01-29/pdf/2025-02006.pdf",
+      "citation": "90 FR 8443"
     },
     {
       "title": "Declaring a National Energy Emergency",
